@@ -19,7 +19,8 @@ Per ogni controllo che si conclude con un ban, è richiesto **uno screenshot pro
    * **Scopo:** Documenta l'ora esatta in cui lo staffer ha avuto il primo accesso al sistema del player.\
      \
      Esempio: [Foto](https://i.e-z.host/skcn4kp4igltc7g.png)<br>
-   * Come potete vedere, in questo screenshot sono 3 informazioni essenziali.\
+   * Come potete vedere, in questo screenshot sono 4 informazioni essenziali.\
+     \- Il nome del player visualizzato tramite [sidebar](https://i.e-z.host/4doj3yn9cy36cyf.png)\
      \- L'orario in cui il player è stato messo in controllo tramite [sidebar](https://i.e-z.host/4doj3yn9cy36cyf.png)\
      \- L'orario in cui è avvenuta la connessione su AnyDesk tramite [taskbar](https://i.e-z.host/18ncorbpukug87x.png)\
      \- La conferma di avvenuta connessione grazie alla finestra di [AnyDesk](https://i.e-z.host/lm5sjxse33yavdr.png) aperta
