@@ -12,18 +12,17 @@ Anche se una registrazione video è obbligatoria, la corretta acquisizione degli
 
 #### Screenshot Obbligatori di Procedura
 
-Per ogni controllo che si conclude con un ban, sono richiesti **due (2) screenshot procedurali obbligatori**. Questi servono a stabilire una timeline inattaccabile dell'inizio del controllo.
+Per ogni controllo che si conclude con un ban, è richiesto **uno screenshot procedurale obbligatorio**. Questo a stabilire una timeline inattaccabile dell'inizio del controllo.
 
-1. **Screenshot del "Freeze":**
-   * **Contenuto:** Questo screenshot deve essere catturato subito dopo aver "freezato" il player. Deve mostrare chiaramente la **zona ScreenShare** con il **timestamp ufficiale del server**.
-   * **Scopo:** Fissa l'ora esatta in cui il player è stato Freezato e l'indagine è iniziata.\
-     \
-     Esempio: TODO
-2. **Screenshot della Connessione Iniziale:**
-   * **Contenuto:** Deve essere catturato **immediatamente dopo** aver stabilito la connessione al PC del player tramite AnyDesk (o software simile). Deve mostrare la finestra di AnyDesk e l'orologio di sistema.
+1. **Screenshot della Connessione Iniziale:**
+   * **Contenuto:** Questo screenshot deve essere catturato **immediatamente dopo** aver stabilito la connessione al PC del player tramite AnyDesk (o software simile). Deve mostrare la **finestra di AnyDesk**, la **sidebar di minecraft** e l'**orologio di sistema**.
    * **Scopo:** Documenta l'ora esatta in cui lo staffer ha avuto il primo accesso al sistema del player.\
      \
-     Esempio: TODO
+     Esempio: [Foto](https://i.e-z.host/skcn4kp4igltc7g.png)<br>
+   * Come potete vedere, in questo screenshot sono 3 informazioni essenziali.\
+     \- L'orario in cui il player è stato messo in controllo tramite [sidebar](https://i.e-z.host/4doj3yn9cy36cyf.png)\
+     \- L'orario in cui è avvenuta la connessione su AnyDesk tramite [taskbar](https://i.e-z.host/18ncorbpukug87x.png)\
+     \- La conferma di avvenuta connessione grazie alla finestra di [AnyDesk](https://i.e-z.host/lm5sjxse33yavdr.png) aperta
 
 ***
 
