@@ -8,9 +8,9 @@ Ogni report di ban deve essere pubblicato sul canale di Discord designato (`🔨
 Non è richiesta allegare la clip video, questa verrà revisionata in seguito e verrà richiesta espressamente da un SS Mentor o SS Manager.
 
 ```
-🏷️ | **IGN Player:** 
-⌛️ | **Durata del ban:** 
-🗞️ | **Motivazione del ban:** 
-🖼️ | **Prove:** 
-🗒️ | **Note:**
+🏷️ | IGN Player:
+⌛️ | Durata del ban:
+🗞️ | Motivazione del ban:
+🖼️ | Prove: 
+🗒️ | Note:
 ```
